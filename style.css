@@ -1,0 +1,52 @@
+/* body{
+    background-color: #1e1345;
+    background-image: url(1.jpg);
+} */
+#top{
+    background-color: #483285;
+}
+.all{
+    color: white;
+}
+
+#heading1{
+    margin-bottom: 40%;
+}
+#heading2{
+    margin-bottom: 40%;
+}
+#heading3{
+    margin-bottom: 40%;
+}
+
+/* slider size here  */
+
+.carousel-inner {
+    height: 500px; /* Adjust the height as needed */
+  }
+  
+  .carousel-item img {
+    height: 100%;
+    object-fit: cover; /* This will cover the entire area while maintaining the aspect ratio */
+}
+
+
+
+.we{
+    font-size: 70px;
+    color: antiquewhite;
+}
+
+
+carousel-item {
+    height: 100vh; /* Adjust as needed */
+    background-size: cover;
+    background-position: center;
+  }
+
+.j {
+    
+        text-align: justify;
+        text-justify: inter-word;
+  }
+
